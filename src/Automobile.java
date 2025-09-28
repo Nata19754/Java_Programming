@@ -27,7 +27,7 @@ public class Automobile {
         mpg = 0;
     }
 
-    // overloaded constructor; take in the values for every field and i then used setter methods so that the validation rules can be applied
+    // overloaded constructor; take in the values for every field and I then used setter methods so that the validation rules can be applied
     public Automobile(int id, String make, String model, String color, int year, double mpg) {
         setId(id);
         setMake(make);

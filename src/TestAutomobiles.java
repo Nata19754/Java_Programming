@@ -1,7 +1,7 @@
 /* Write an application called TestAutomobiles that declares two Automobile objects. Write a
 function called enterData() that prompts the user for the data values for an Automobile object
 and returns that object. When you test the program, be sure to enter some invalid data to
-demonstrate that all the methods work correctly */
+demonstrate that all the methods work correctly. */
 
 
 import java.util.Scanner;
